@@ -20,3 +20,4 @@ Activity at 2023-01-11T14:15:00: Chore: update dependencies and build scripts
 Activity at 2023-01-11T14:01:00: Chore: update dependencies and build scripts
 Activity at 2023-01-11T14:01:00: Test: add unit tests for edge cases
 Activity at 2023-01-11T11:18:00: Docs: update API documentation and examples
+Activity at 2023-01-11T15:06:00: Fix: resolve memory leak in inference engine
