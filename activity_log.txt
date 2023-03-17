@@ -131,3 +131,4 @@ Activity at 2023-03-14T13:53:00: Refactor: simplify data transformation pipeline
 Activity at 2023-03-14T09:05:00: Feature: add support for distributed processing
 Activity at 2023-03-14T21:07:00: Feature: add support for distributed processing
 Activity at 2023-03-15T12:53:00: Docs: update API documentation and examples
+Activity at 2023-03-17T16:36:00: Docs: update API documentation and examples
