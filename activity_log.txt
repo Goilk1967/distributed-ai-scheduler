@@ -153,3 +153,4 @@ Activity at 2023-03-27T11:35:00: Docs: update API documentation and examples
 Activity at 2023-03-27T15:31:00: Refactor: simplify data transformation pipeline
 Activity at 2023-03-27T20:06:00: Refactor: simplify data transformation pipeline
 Activity at 2023-03-27T17:29:00: Refactor: optimize performance in core module
+Activity at 2023-03-28T20:26:00: Fix: resolve memory leak in inference engine
