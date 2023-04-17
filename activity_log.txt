@@ -191,3 +191,4 @@ Activity at 2023-04-14T10:27:00: Test: add unit tests for edge cases
 Activity at 2023-04-14T16:07:00: Style: improve code readability and formatting
 Activity at 2023-04-17T10:12:00: Style: improve code readability and formatting
 Activity at 2023-04-17T17:17:00: Docs: update API documentation and examples
+Activity at 2023-04-17T11:32:00: Docs: update API documentation and examples
