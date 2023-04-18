@@ -194,3 +194,4 @@ Activity at 2023-04-17T17:17:00: Docs: update API documentation and examples
 Activity at 2023-04-17T11:32:00: Docs: update API documentation and examples
 Activity at 2023-04-17T13:34:00: Refactor: optimize performance in core module
 Activity at 2023-04-17T16:45:00: Test: add unit tests for edge cases
+Activity at 2023-04-18T18:44:00: Fix: resolve memory leak in inference engine
