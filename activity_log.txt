@@ -259,3 +259,4 @@ Activity at 2023-05-19T14:55:00: Feature: add support for distributed processing
 Activity at 2023-05-23T13:43:00: Style: improve code readability and formatting
 Activity at 2023-05-23T09:35:00: Style: improve code readability and formatting
 Activity at 2023-05-24T16:35:00: Style: improve code readability and formatting
+Activity at 2023-05-25T12:29:00: Fix: resolve memory leak in inference engine
