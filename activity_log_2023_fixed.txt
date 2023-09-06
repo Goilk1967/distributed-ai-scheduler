@@ -19,3 +19,4 @@ Fixed Activity at 2023-09-05T19:21:00: Feature: add support for distributed proc
 Fixed Activity at 2023-09-06T19:01:00: Docs: update API documentation and examples
 Fixed Activity at 2023-09-06T09:32:00: Refine: inference logic for edge devices
 Fixed Activity at 2023-09-06T12:49:00: Optimize: data loading strategy
+Fixed Activity at 2023-09-06T16:43:00: Fix: resolve memory leak in inference engine
