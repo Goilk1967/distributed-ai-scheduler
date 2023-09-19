@@ -61,3 +61,4 @@ Fixed Activity at 2023-09-15T21:53:00: Chore: update dependencies and build scri
 Fixed Activity at 2023-09-15T20:59:00: Refine: inference logic for edge devices
 Fixed Activity at 2023-09-15T16:09:00: Test: add unit tests for edge cases
 Fixed Activity at 2023-09-15T17:01:00: Optimize: data loading strategy
+Fixed Activity at 2023-09-18T21:20:00: Docs: update API documentation and examples
