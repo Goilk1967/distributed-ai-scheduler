@@ -69,3 +69,4 @@ Fixed Activity at 2023-09-19T17:49:00: Refine: inference logic for edge devices
 Fixed Activity at 2023-09-19T15:10:00: Optimize: data loading strategy
 Fixed Activity at 2023-09-19T17:22:00: Optimize: data loading strategy
 Fixed Activity at 2023-09-20T14:04:00: Style: improve code readability and formatting
+Fixed Activity at 2023-09-20T20:46:00: Refactor: optimize performance in core module
