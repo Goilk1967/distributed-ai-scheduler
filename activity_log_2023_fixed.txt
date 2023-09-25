@@ -78,3 +78,4 @@ Fixed Activity at 2023-09-22T19:45:00: Refactor: simplify data transformation pi
 Fixed Activity at 2023-09-22T16:24:00: Style: improve code readability and formatting
 Fixed Activity at 2023-09-22T17:24:00: Docs: update API documentation and examples
 Fixed Activity at 2023-09-25T15:22:00: Chore: update dependencies and build scripts
+Fixed Activity at 2023-09-25T14:10:00: Refine: inference logic for edge devices
