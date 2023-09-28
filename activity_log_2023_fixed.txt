@@ -100,3 +100,4 @@ Fixed Activity at 2023-09-27T19:54:00: Fix: resolve memory leak in inference eng
 Fixed Activity at 2023-09-27T17:59:00: Chore: update dependencies and build scripts
 Fixed Activity at 2023-09-28T16:17:00: Style: improve code readability and formatting
 Fixed Activity at 2023-09-28T18:19:00: Chore: update dependencies and build scripts
+Fixed Activity at 2023-09-28T19:34:00: Fix: resolve memory leak in inference engine
