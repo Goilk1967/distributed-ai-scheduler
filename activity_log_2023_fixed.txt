@@ -106,3 +106,4 @@ Fixed Activity at 2023-09-29T10:27:00: Style: improve code readability and forma
 Fixed Activity at 2023-09-29T20:24:00: Refactor: optimize performance in core module
 Fixed Activity at 2023-09-29T09:34:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2023-09-29T18:24:00: Refine: inference logic for edge devices
+Fixed Activity at 2023-09-29T11:58:00: Test: add unit tests for edge cases
