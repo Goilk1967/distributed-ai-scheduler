@@ -118,3 +118,4 @@ Fixed Activity at 2023-10-02T10:12:00: Refine: inference logic for edge devices
 Fixed Activity at 2023-10-02T19:44:00: Docs: update API documentation and examples
 Fixed Activity at 2023-10-03T11:34:00: Optimize: data loading strategy
 Fixed Activity at 2023-10-03T21:18:00: Refine: inference logic for edge devices
+Fixed Activity at 2023-10-03T18:14:00: Improve: logging and monitoring system
