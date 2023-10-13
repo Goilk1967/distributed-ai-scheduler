@@ -151,3 +151,4 @@ Fixed Activity at 2023-10-11T19:26:00: Feature: add support for distributed proc
 Fixed Activity at 2023-10-11T11:35:00: Test: add unit tests for edge cases
 Fixed Activity at 2023-10-11T18:36:00: Refactor: optimize performance in core module
 Fixed Activity at 2023-10-12T18:39:00: Refactor: optimize performance in core module
+Fixed Activity at 2023-10-12T20:08:00: Docs: update API documentation and examples
