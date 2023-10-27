@@ -213,3 +213,4 @@ Fixed Activity at 2023-10-26T21:11:00: Refactor: simplify data transformation pi
 Fixed Activity at 2023-10-27T09:40:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2023-10-27T16:10:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2023-10-27T18:28:00: Optimize: data loading strategy
+Fixed Activity at 2023-10-27T19:18:00: Refine: inference logic for edge devices
