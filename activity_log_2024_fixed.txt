@@ -3,3 +3,4 @@ Fixed Activity at 2024-05-01T19:35:00: Feature: add support for distributed proc
 Fixed Activity at 2024-05-01T20:27:00: Improve: logging and monitoring system
 Fixed Activity at 2024-05-02T18:20:00: Optimize: data loading strategy
 Fixed Activity at 2024-05-02T14:13:00: Refactor: simplify data transformation pipeline
+Fixed Activity at 2024-05-02T09:44:00: Refine: inference logic for edge devices
