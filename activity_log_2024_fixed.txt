@@ -17,3 +17,4 @@ Fixed Activity at 2024-05-06T18:08:00: Feature: add support for distributed proc
 Fixed Activity at 2024-05-06T17:11:00: Optimize: data loading strategy
 Fixed Activity at 2024-05-07T21:46:00: Docs: update API documentation and examples
 Fixed Activity at 2024-05-07T12:23:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2024-05-08T21:34:00: Test: add unit tests for edge cases
