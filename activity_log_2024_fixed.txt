@@ -41,3 +41,4 @@ Fixed Activity at 2024-05-14T16:05:00: Chore: update dependencies and build scri
 Fixed Activity at 2024-05-14T21:45:00: Docs: update API documentation and examples
 Fixed Activity at 2024-05-14T17:08:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-05-14T20:01:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2024-05-14T19:45:00: Docs: update API documentation and examples
