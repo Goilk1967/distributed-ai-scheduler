@@ -54,3 +54,4 @@ Fixed Activity at 2024-05-16T10:42:00: Optimize: data loading strategy
 Fixed Activity at 2024-05-16T13:24:00: Update: internal model parameters
 Fixed Activity at 2024-05-16T21:14:00: Chore: update dependencies and build scripts
 Fixed Activity at 2024-05-16T11:33:00: Docs: update API documentation and examples
+Fixed Activity at 2024-05-16T12:35:00: Refactor: optimize performance in core module
