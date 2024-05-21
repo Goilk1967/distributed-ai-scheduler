@@ -58,3 +58,4 @@ Fixed Activity at 2024-05-16T12:35:00: Refactor: optimize performance in core mo
 Fixed Activity at 2024-05-17T14:28:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2024-05-17T10:16:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-05-17T12:51:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2024-05-20T20:16:00: Optimize: data loading strategy
