@@ -72,3 +72,4 @@ Fixed Activity at 2024-05-22T19:36:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-05-22T16:43:00: Docs: update API documentation and examples
 Fixed Activity at 2024-05-22T19:46:00: Docs: update API documentation and examples
 Fixed Activity at 2024-05-23T09:59:00: Chore: update dependencies and build scripts
+Fixed Activity at 2024-05-23T15:53:00: Update: internal model parameters
