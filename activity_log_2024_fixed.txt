@@ -81,3 +81,4 @@ Fixed Activity at 2024-05-24T12:13:00: Improve: logging and monitoring system
 Fixed Activity at 2024-05-24T13:16:00: Test: add unit tests for edge cases
 Fixed Activity at 2024-05-24T09:54:00: Optimize: data loading strategy
 Fixed Activity at 2024-05-24T14:44:00: Optimize: data loading strategy
+Fixed Activity at 2024-05-24T13:39:00: Docs: update API documentation and examples
