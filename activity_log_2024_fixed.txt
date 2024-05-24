@@ -75,3 +75,4 @@ Fixed Activity at 2024-05-23T09:59:00: Chore: update dependencies and build scri
 Fixed Activity at 2024-05-23T15:53:00: Update: internal model parameters
 Fixed Activity at 2024-05-23T13:38:00: Update: internal model parameters
 Fixed Activity at 2024-05-23T11:46:00: Docs: update API documentation and examples
+Fixed Activity at 2024-05-24T19:23:00: Fix: resolve memory leak in inference engine
