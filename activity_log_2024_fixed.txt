@@ -236,3 +236,4 @@ Fixed Activity at 2024-07-10T13:10:00: Update: internal model parameters
 Fixed Activity at 2024-07-11T19:47:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-07-11T17:45:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-07-11T16:24:00: Docs: update API documentation and examples
+Fixed Activity at 2024-07-12T12:01:00: Feature: add support for distributed processing
