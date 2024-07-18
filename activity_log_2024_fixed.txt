@@ -248,3 +248,4 @@ Fixed Activity at 2024-07-16T09:43:00: Update: internal model parameters
 Fixed Activity at 2024-07-16T13:33:00: Update: internal model parameters
 Fixed Activity at 2024-07-17T17:14:00: Chore: update dependencies and build scripts
 Fixed Activity at 2024-07-17T10:09:00: Refine: inference logic for edge devices
+Fixed Activity at 2024-07-17T21:21:00: Optimize: data loading strategy
