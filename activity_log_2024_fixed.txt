@@ -264,3 +264,4 @@ Fixed Activity at 2024-07-22T16:53:00: Chore: update dependencies and build scri
 Fixed Activity at 2024-07-22T15:04:00: Optimize: data loading strategy
 Fixed Activity at 2024-07-22T15:58:00: Style: improve code readability and formatting
 Fixed Activity at 2024-07-23T18:32:00: Docs: update API documentation and examples
+Fixed Activity at 2024-07-23T11:01:00: Fix: resolve memory leak in inference engine
