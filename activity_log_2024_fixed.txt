@@ -302,3 +302,4 @@ Fixed Activity at 2024-08-02T10:58:00: Refactor: simplify data transformation pi
 Fixed Activity at 2024-08-02T19:02:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-08-05T19:11:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-08-05T16:28:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2024-08-05T10:03:00: Optimize: data loading strategy
