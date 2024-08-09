@@ -324,3 +324,4 @@ Fixed Activity at 2024-08-08T14:15:00: Refactor: optimize performance in core mo
 Fixed Activity at 2024-08-08T18:02:00: Update: internal model parameters
 Fixed Activity at 2024-08-08T20:59:00: Optimize: data loading strategy
 Fixed Activity at 2024-08-09T14:34:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2024-08-09T15:23:00: Docs: update API documentation and examples
