@@ -335,3 +335,4 @@ Fixed Activity at 2024-08-13T18:48:00: Docs: update API documentation and exampl
 Fixed Activity at 2024-08-13T18:55:00: Style: improve code readability and formatting
 Fixed Activity at 2024-08-13T12:54:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2024-08-13T15:27:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2024-08-13T12:55:00: Refine: inference logic for edge devices
