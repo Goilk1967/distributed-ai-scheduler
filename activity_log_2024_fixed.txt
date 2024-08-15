@@ -342,3 +342,4 @@ Fixed Activity at 2024-08-14T17:49:00: Docs: update API documentation and exampl
 Fixed Activity at 2024-08-14T17:53:00: Docs: update API documentation and examples
 Fixed Activity at 2024-08-15T12:08:00: Optimize: data loading strategy
 Fixed Activity at 2024-08-15T14:42:00: Chore: update dependencies and build scripts
+Fixed Activity at 2024-08-15T16:28:00: Fix: resolve memory leak in inference engine
