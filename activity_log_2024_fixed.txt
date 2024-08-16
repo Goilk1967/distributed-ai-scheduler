@@ -348,3 +348,4 @@ Fixed Activity at 2024-08-16T09:10:00: Optimize: data loading strategy
 Fixed Activity at 2024-08-16T19:03:00: Test: add unit tests for edge cases
 Fixed Activity at 2024-08-16T13:49:00: Update: internal model parameters
 Fixed Activity at 2024-08-16T18:01:00: Refactor: optimize performance in core module
+Fixed Activity at 2024-08-16T09:52:00: Docs: update API documentation and examples
