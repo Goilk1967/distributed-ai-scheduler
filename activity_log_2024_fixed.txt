@@ -365,3 +365,4 @@ Fixed Activity at 2024-08-20T21:34:00: Chore: update dependencies and build scri
 Fixed Activity at 2024-08-20T17:12:00: Chore: update dependencies and build scripts
 Fixed Activity at 2024-08-20T12:13:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-08-20T21:55:00: Update: internal model parameters
+Fixed Activity at 2024-08-21T18:22:00: Fix: resolve memory leak in inference engine
