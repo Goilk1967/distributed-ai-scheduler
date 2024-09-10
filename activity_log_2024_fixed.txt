@@ -428,3 +428,4 @@ Fixed Activity at 2024-09-09T18:32:00: Chore: update dependencies and build scri
 Fixed Activity at 2024-09-09T10:57:00: Chore: update dependencies and build scripts
 Fixed Activity at 2024-09-09T11:01:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-09-09T17:51:00: Docs: update API documentation and examples
+Fixed Activity at 2024-09-10T09:56:00: Test: add unit tests for edge cases
