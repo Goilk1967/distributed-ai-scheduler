@@ -441,3 +441,4 @@ Fixed Activity at 2024-09-11T13:50:00: Feature: add support for distributed proc
 Fixed Activity at 2024-09-11T21:19:00: Update: internal model parameters
 Fixed Activity at 2024-09-11T16:42:00: Docs: update API documentation and examples
 Fixed Activity at 2024-09-12T14:04:00: Optimize: data loading strategy
+Fixed Activity at 2024-09-12T20:02:00: Docs: update API documentation and examples
