@@ -503,3 +503,4 @@ Fixed Activity at 2024-09-30T14:40:00: Update: internal model parameters
 Fixed Activity at 2024-09-30T16:55:00: Optimize: data loading strategy
 Fixed Activity at 2024-09-30T20:41:00: Docs: update API documentation and examples
 Fixed Activity at 2024-10-01T09:36:00: Docs: update API documentation and examples
+Fixed Activity at 2024-10-01T16:22:00: Update: internal model parameters
