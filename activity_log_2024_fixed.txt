@@ -505,3 +505,4 @@ Fixed Activity at 2024-09-30T20:41:00: Docs: update API documentation and exampl
 Fixed Activity at 2024-10-01T09:36:00: Docs: update API documentation and examples
 Fixed Activity at 2024-10-01T16:22:00: Update: internal model parameters
 Fixed Activity at 2024-10-01T09:30:00: Refactor: optimize performance in core module
+Fixed Activity at 2024-10-01T12:22:00: Refine: inference logic for edge devices
