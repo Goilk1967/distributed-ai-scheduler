@@ -540,3 +540,4 @@ Fixed Activity at 2024-10-08T11:36:00: Chore: update dependencies and build scri
 Fixed Activity at 2024-10-09T12:03:00: Docs: update API documentation and examples
 Fixed Activity at 2024-10-09T09:40:00: Update: internal model parameters
 Fixed Activity at 2024-10-09T12:47:00: Docs: update API documentation and examples
+Fixed Activity at 2024-10-09T17:36:00: Refactor: optimize performance in core module
