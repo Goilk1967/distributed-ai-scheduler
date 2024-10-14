@@ -557,3 +557,4 @@ Fixed Activity at 2024-10-11T13:08:00: Style: improve code readability and forma
 Fixed Activity at 2024-10-11T13:50:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-10-14T16:03:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-10-14T12:59:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2024-10-14T10:02:00: Fix: resolve memory leak in inference engine
