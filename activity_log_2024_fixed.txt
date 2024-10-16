@@ -566,3 +566,4 @@ Fixed Activity at 2024-10-15T19:34:00: Refactor: simplify data transformation pi
 Fixed Activity at 2024-10-15T09:36:00: Test: add unit tests for edge cases
 Fixed Activity at 2024-10-16T19:30:00: Docs: update API documentation and examples
 Fixed Activity at 2024-10-16T09:46:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2024-10-16T09:48:00: Test: add unit tests for edge cases
