@@ -591,3 +591,4 @@ Fixed Activity at 2024-10-23T15:06:00: Feature: add support for distributed proc
 Fixed Activity at 2024-10-23T21:40:00: Optimize: data loading strategy
 Fixed Activity at 2024-10-23T20:25:00: Docs: update API documentation and examples
 Fixed Activity at 2024-10-23T16:25:00: Refactor: optimize performance in core module
+Fixed Activity at 2024-10-24T12:15:00: Fix: resolve memory leak in inference engine
