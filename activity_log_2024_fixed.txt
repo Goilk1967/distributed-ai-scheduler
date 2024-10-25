@@ -600,3 +600,4 @@ Fixed Activity at 2024-10-24T20:33:00: Improve: logging and monitoring system
 Fixed Activity at 2024-10-24T19:32:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-10-25T15:37:00: Improve: logging and monitoring system
 Fixed Activity at 2024-10-25T21:11:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2024-10-25T09:35:00: Test: add unit tests for edge cases
