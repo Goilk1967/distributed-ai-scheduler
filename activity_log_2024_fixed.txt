@@ -638,3 +638,4 @@ Fixed Activity at 2024-11-05T19:51:00: Optimize: data loading strategy
 Fixed Activity at 2024-11-05T09:37:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-11-05T20:26:00: Style: improve code readability and formatting
 Fixed Activity at 2024-11-05T15:56:00: Refine: inference logic for edge devices
+Fixed Activity at 2024-11-05T21:59:00: Docs: update API documentation and examples
