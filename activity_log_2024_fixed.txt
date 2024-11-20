@@ -676,3 +676,4 @@ Fixed Activity at 2024-11-18T17:12:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-11-19T14:12:00: Chore: update dependencies and build scripts
 Fixed Activity at 2024-11-19T21:35:00: Optimize: data loading strategy
 Fixed Activity at 2024-11-20T20:46:00: Refactor: simplify data transformation pipeline
+Fixed Activity at 2024-11-20T15:03:00: Chore: update dependencies and build scripts
