@@ -759,3 +759,4 @@ Fixed Activity at 2024-12-13T11:47:00: Fix: resolve memory leak in inference eng
 Fixed Activity at 2024-12-16T12:02:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-12-16T17:09:00: Optimize: data loading strategy
 Fixed Activity at 2024-12-16T11:10:00: Refactor: simplify data transformation pipeline
+Fixed Activity at 2024-12-16T15:37:00: Refine: inference logic for edge devices
