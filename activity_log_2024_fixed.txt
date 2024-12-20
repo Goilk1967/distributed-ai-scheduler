@@ -780,3 +780,4 @@ Fixed Activity at 2024-12-19T10:19:00: Optimize: data loading strategy
 Fixed Activity at 2024-12-20T20:37:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-12-20T10:41:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2024-12-20T19:41:00: Chore: update dependencies and build scripts
+Fixed Activity at 2024-12-20T18:48:00: Test: add unit tests for edge cases
