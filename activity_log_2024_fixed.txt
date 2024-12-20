@@ -778,3 +778,4 @@ Fixed Activity at 2024-12-19T20:56:00: Optimize: data loading strategy
 Fixed Activity at 2024-12-19T18:19:00: Optimize: data loading strategy
 Fixed Activity at 2024-12-19T10:19:00: Optimize: data loading strategy
 Fixed Activity at 2024-12-20T20:37:00: Refine: inference logic for edge devices
+Fixed Activity at 2024-12-20T10:41:00: Fix: resolve memory leak in inference engine
