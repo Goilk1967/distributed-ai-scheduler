@@ -787,3 +787,4 @@ Fixed Activity at 2024-12-23T20:06:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-12-23T20:42:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-12-23T18:56:00: Optimize: data loading strategy
 Fixed Activity at 2024-12-23T20:21:00: Improve: logging and monitoring system
+Fixed Activity at 2024-12-23T21:09:00: Fix: resolve memory leak in inference engine
