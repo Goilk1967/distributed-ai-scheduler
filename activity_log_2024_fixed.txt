@@ -783,3 +783,4 @@ Fixed Activity at 2024-12-20T19:41:00: Chore: update dependencies and build scri
 Fixed Activity at 2024-12-20T18:48:00: Test: add unit tests for edge cases
 Fixed Activity at 2024-12-20T15:29:00: Test: add unit tests for edge cases
 Fixed Activity at 2024-12-23T18:51:00: Chore: update dependencies and build scripts
+Fixed Activity at 2024-12-23T20:06:00: Refine: inference logic for edge devices
