@@ -794,3 +794,4 @@ Fixed Activity at 2024-12-24T10:28:00: Docs: update API documentation and exampl
 Fixed Activity at 2024-12-24T12:40:00: Chore: update dependencies and build scripts
 Fixed Activity at 2024-12-24T11:15:00: Refactor: simplify data transformation pipeline
 Fixed Activity at 2024-12-24T13:14:00: Chore: update dependencies and build scripts
+Fixed Activity at 2024-12-24T18:54:00: Refine: inference logic for edge devices
