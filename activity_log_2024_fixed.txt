@@ -797,3 +797,4 @@ Fixed Activity at 2024-12-24T13:14:00: Chore: update dependencies and build scri
 Fixed Activity at 2024-12-24T18:54:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-12-24T16:11:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-12-24T09:02:00: Docs: update API documentation and examples
+Fixed Activity at 2024-12-24T18:20:00: Update: internal model parameters
