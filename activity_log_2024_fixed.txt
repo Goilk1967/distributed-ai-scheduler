@@ -799,3 +799,4 @@ Fixed Activity at 2024-12-24T16:11:00: Refactor: optimize performance in core mo
 Fixed Activity at 2024-12-24T09:02:00: Docs: update API documentation and examples
 Fixed Activity at 2024-12-24T18:20:00: Update: internal model parameters
 Fixed Activity at 2024-12-26T10:45:00: Docs: update API documentation and examples
+Fixed Activity at 2024-12-26T13:05:00: Test: add unit tests for edge cases
