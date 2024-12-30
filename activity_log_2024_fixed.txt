@@ -814,3 +814,4 @@ Fixed Activity at 2024-12-27T20:25:00: Feature: add support for distributed proc
 Fixed Activity at 2024-12-30T14:10:00: Test: add unit tests for edge cases
 Fixed Activity at 2024-12-30T10:08:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-12-30T19:32:00: Optimize: data loading strategy
+Fixed Activity at 2024-12-30T17:48:00: Docs: update API documentation and examples
