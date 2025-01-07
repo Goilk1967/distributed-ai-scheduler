@@ -19,3 +19,4 @@ Fixed Activity at 2025-01-06T18:53:00: Chore: update dependencies and build scri
 Fixed Activity at 2025-01-07T14:50:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-01-07T15:33:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2025-01-07T14:42:00: Docs: update API documentation and examples
+Fixed Activity at 2025-01-07T14:15:00: Refine: inference logic for edge devices
