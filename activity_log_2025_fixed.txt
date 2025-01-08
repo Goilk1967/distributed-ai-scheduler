@@ -22,3 +22,4 @@ Fixed Activity at 2025-01-07T14:42:00: Docs: update API documentation and exampl
 Fixed Activity at 2025-01-07T14:15:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-01-07T17:33:00: Docs: update API documentation and examples
 Fixed Activity at 2025-01-08T09:28:00: Improve: logging and monitoring system
+Fixed Activity at 2025-01-08T16:22:00: Refine: inference logic for edge devices
