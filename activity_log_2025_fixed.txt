@@ -57,3 +57,4 @@ Fixed Activity at 2025-01-16T09:35:00: Optimize: data loading strategy
 Fixed Activity at 2025-01-16T21:37:00: Optimize: data loading strategy
 Fixed Activity at 2025-01-16T16:06:00: Docs: update API documentation and examples
 Fixed Activity at 2025-01-16T11:25:00: Update: internal model parameters
+Fixed Activity at 2025-01-17T18:59:00: Update: internal model parameters
