@@ -175,3 +175,4 @@ Fixed Activity at 2025-02-17T14:30:00: Docs: update API documentation and exampl
 Fixed Activity at 2025-02-17T09:18:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-02-17T17:10:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-02-17T21:48:00: Refactor: optimize performance in core module
+Fixed Activity at 2025-02-17T20:21:00: Refactor: simplify data transformation pipeline
