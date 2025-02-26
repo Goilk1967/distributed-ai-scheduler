@@ -213,3 +213,4 @@ Fixed Activity at 2025-02-25T14:30:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-02-25T19:25:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-02-26T19:56:00: Update: internal model parameters
 Fixed Activity at 2025-02-26T21:17:00: Refine: inference logic for edge devices
+Fixed Activity at 2025-02-26T13:51:00: Test: add unit tests for edge cases
