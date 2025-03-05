@@ -227,3 +227,4 @@ Fixed Activity at 2025-03-03T17:40:00: Optimize: data loading strategy
 Fixed Activity at 2025-03-03T15:08:00: Update: internal model parameters
 Fixed Activity at 2025-03-03T11:24:00: Docs: update API documentation and examples
 Fixed Activity at 2025-03-04T19:29:00: Feature: add support for distributed processing
+Fixed Activity at 2025-03-04T21:46:00: Fix: resolve memory leak in inference engine
