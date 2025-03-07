@@ -241,3 +241,4 @@ Fixed Activity at 2025-03-07T14:12:00: Refactor: optimize performance in core mo
 Fixed Activity at 2025-03-07T14:13:00: Chore: update dependencies and build scripts
 Fixed Activity at 2025-03-07T17:28:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-03-07T14:54:00: Refine: inference logic for edge devices
+Fixed Activity at 2025-03-07T09:56:00: Refactor: simplify data transformation pipeline
