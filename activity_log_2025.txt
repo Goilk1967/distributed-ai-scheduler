@@ -111,3 +111,4 @@ Activity at 2025-03-14T21:51:00: Fix: resolve memory leak in inference engine
 Activity at 2025-03-14T10:27:00: Style: improve code readability and formatting
 Activity at 2025-03-17T18:46:00: Docs: update API documentation and examples
 Activity at 2025-03-17T17:58:00: Docs: update API documentation and examples
+Activity at 2025-03-18T16:08:00: Test: add unit tests for edge cases
