@@ -289,3 +289,4 @@ Fixed Activity at 2025-03-21T15:52:00: Chore: update dependencies and build scri
 Fixed Activity at 2025-03-24T19:02:00: Docs: update API documentation and examples
 Fixed Activity at 2025-03-24T13:20:00: Update: internal model parameters
 Fixed Activity at 2025-03-24T11:39:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2025-03-25T09:26:00: Refine: inference logic for edge devices
