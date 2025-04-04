@@ -326,3 +326,4 @@ Fixed Activity at 2025-04-02T11:37:00: Chore: update dependencies and build scri
 Fixed Activity at 2025-04-03T09:48:00: Style: improve code readability and formatting
 Fixed Activity at 2025-04-03T20:20:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-04-03T12:13:00: Update: internal model parameters
+Fixed Activity at 2025-04-03T20:29:00: Fix: resolve memory leak in inference engine
