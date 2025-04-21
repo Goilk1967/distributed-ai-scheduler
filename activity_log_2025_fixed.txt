@@ -374,3 +374,4 @@ Fixed Activity at 2025-04-17T18:45:00: Optimize: data loading strategy
 Fixed Activity at 2025-04-18T18:07:00: Optimize: data loading strategy
 Fixed Activity at 2025-04-18T15:10:00: Optimize: data loading strategy
 Fixed Activity at 2025-04-21T11:41:00: Docs: update API documentation and examples
+Fixed Activity at 2025-04-21T19:08:00: Docs: update API documentation and examples
