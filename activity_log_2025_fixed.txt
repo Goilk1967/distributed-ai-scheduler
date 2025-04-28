@@ -398,3 +398,4 @@ Fixed Activity at 2025-04-25T19:01:00: Chore: update dependencies and build scri
 Fixed Activity at 2025-04-25T13:12:00: Test: add unit tests for edge cases
 Fixed Activity at 2025-04-25T16:57:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-04-28T17:27:00: Test: add unit tests for edge cases
+Fixed Activity at 2025-04-28T16:53:00: Refine: inference logic for edge devices
