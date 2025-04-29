@@ -404,3 +404,4 @@ Fixed Activity at 2025-04-28T20:08:00: Optimize: data loading strategy
 Fixed Activity at 2025-04-29T11:58:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2025-04-29T10:21:00: Docs: update API documentation and examples
 Fixed Activity at 2025-04-29T10:18:00: Chore: update dependencies and build scripts
+Fixed Activity at 2025-04-29T11:26:00: Fix: resolve memory leak in inference engine
