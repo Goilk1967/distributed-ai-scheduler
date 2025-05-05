@@ -421,3 +421,4 @@ Fixed Activity at 2025-05-02T11:33:00: Chore: update dependencies and build scri
 Fixed Activity at 2025-05-02T11:58:00: Update: internal model parameters
 Fixed Activity at 2025-05-05T13:46:00: Test: add unit tests for edge cases
 Fixed Activity at 2025-05-05T09:44:00: Docs: update API documentation and examples
+Fixed Activity at 2025-05-05T09:39:00: Refactor: simplify data transformation pipeline
