@@ -439,3 +439,4 @@ Fixed Activity at 2025-05-09T17:10:00: Refactor: simplify data transformation pi
 Fixed Activity at 2025-05-09T13:32:00: Refactor: simplify data transformation pipeline
 Fixed Activity at 2025-05-09T13:28:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-05-09T10:31:00: Style: improve code readability and formatting
+Fixed Activity at 2025-05-09T16:34:00: Docs: update API documentation and examples
