@@ -443,3 +443,4 @@ Fixed Activity at 2025-05-09T16:34:00: Docs: update API documentation and exampl
 Fixed Activity at 2025-05-12T19:06:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-05-12T18:45:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-05-12T17:01:00: Chore: update dependencies and build scripts
+Fixed Activity at 2025-05-13T21:43:00: Test: add unit tests for edge cases
