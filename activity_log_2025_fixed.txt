@@ -488,3 +488,4 @@ Fixed Activity at 2025-05-22T12:19:00: Fix: resolve memory leak in inference eng
 Fixed Activity at 2025-05-23T14:50:00: Optimize: data loading strategy
 Fixed Activity at 2025-05-23T16:19:00: Optimize: data loading strategy
 Fixed Activity at 2025-05-23T20:35:00: Style: improve code readability and formatting
+Fixed Activity at 2025-05-23T20:50:00: Fix: resolve memory leak in inference engine
