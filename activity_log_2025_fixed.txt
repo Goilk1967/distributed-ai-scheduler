@@ -514,3 +514,4 @@ Fixed Activity at 2025-05-29T21:34:00: Update: internal model parameters
 Fixed Activity at 2025-05-29T10:56:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-05-29T09:42:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-05-29T10:05:00: Docs: update API documentation and examples
+Fixed Activity at 2025-05-29T10:55:00: Chore: update dependencies and build scripts
