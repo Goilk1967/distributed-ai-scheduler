@@ -538,3 +538,4 @@ Fixed Activity at 2025-06-05T13:53:00: Test: add unit tests for edge cases
 Fixed Activity at 2025-06-06T15:20:00: Optimize: data loading strategy
 Fixed Activity at 2025-06-06T10:34:00: Test: add unit tests for edge cases
 Fixed Activity at 2025-06-06T19:37:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2025-06-06T14:39:00: Test: add unit tests for edge cases
