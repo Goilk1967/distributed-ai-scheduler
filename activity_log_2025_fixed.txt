@@ -552,3 +552,4 @@ Fixed Activity at 2025-06-10T19:39:00: Docs: update API documentation and exampl
 Fixed Activity at 2025-06-10T17:44:00: Update: internal model parameters
 Fixed Activity at 2025-06-10T17:23:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2025-06-10T12:07:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2025-06-10T21:25:00: Feature: add support for distributed processing
