@@ -570,3 +570,4 @@ Fixed Activity at 2025-06-13T21:49:00: Feature: add support for distributed proc
 Fixed Activity at 2025-06-13T20:07:00: Update: internal model parameters
 Fixed Activity at 2025-06-13T20:19:00: Docs: update API documentation and examples
 Fixed Activity at 2025-06-13T09:58:00: Update: internal model parameters
+Fixed Activity at 2025-06-16T17:25:00: Docs: update API documentation and examples
