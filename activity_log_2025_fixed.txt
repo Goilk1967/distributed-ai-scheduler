@@ -661,3 +661,4 @@ Fixed Activity at 2025-07-10T11:34:00: Refactor: simplify data transformation pi
 Fixed Activity at 2025-07-10T21:02:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-07-10T14:05:00: Test: add unit tests for edge cases
 Fixed Activity at 2025-07-11T15:26:00: Refine: inference logic for edge devices
+Fixed Activity at 2025-07-11T17:30:00: Docs: update API documentation and examples
