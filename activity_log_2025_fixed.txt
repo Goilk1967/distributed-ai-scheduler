@@ -737,3 +737,4 @@ Fixed Activity at 2025-08-04T10:11:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-08-04T17:44:00: Chore: update dependencies and build scripts
 Fixed Activity at 2025-08-04T16:54:00: Style: improve code readability and formatting
 Fixed Activity at 2025-08-04T17:39:00: Refactor: optimize performance in core module
+Fixed Activity at 2025-08-05T15:35:00: Docs: update API documentation and examples
