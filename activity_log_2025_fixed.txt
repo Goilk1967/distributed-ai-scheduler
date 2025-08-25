@@ -814,3 +814,4 @@ Fixed Activity at 2025-08-25T16:59:00: Optimize: data loading strategy
 Fixed Activity at 2025-08-25T09:22:00: Update: internal model parameters
 Fixed Activity at 2025-08-25T18:13:00: Docs: update API documentation and examples
 Fixed Activity at 2025-08-25T17:01:00: Test: add unit tests for edge cases
+Fixed Activity at 2025-08-25T14:27:00: Refine: inference logic for edge devices
