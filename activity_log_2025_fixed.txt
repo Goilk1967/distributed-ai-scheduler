@@ -845,3 +845,4 @@ Fixed Activity at 2025-09-04T12:41:00: Refactor: simplify data transformation pi
 Fixed Activity at 2025-09-04T16:19:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2025-09-04T18:43:00: Optimize: data loading strategy
 Fixed Activity at 2025-09-04T20:34:00: Refine: inference logic for edge devices
+Fixed Activity at 2025-09-04T21:20:00: Test: add unit tests for edge cases
