@@ -956,3 +956,4 @@ Fixed Activity at 2025-10-09T11:56:00: Docs: update API documentation and exampl
 Fixed Activity at 2025-10-09T18:29:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-10-09T12:41:00: Test: add unit tests for edge cases
 Fixed Activity at 2025-10-09T19:41:00: Docs: update API documentation and examples
+Fixed Activity at 2025-10-09T21:13:00: Refactor: simplify data transformation pipeline
